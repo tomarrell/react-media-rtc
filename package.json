@@ -1,6 +1,6 @@
 {
   "name": "react-media-rtc",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "index.js",
   "author": "Tom Arrell <tom.arrell@gmail.com> (https://tomarrell.com)",
   "license": "MIT"
