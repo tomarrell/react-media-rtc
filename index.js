@@ -1,4 +1,4 @@
-const media = require('./media');
+const media = require('./src/media');
 
 module.exports = {
   media,
