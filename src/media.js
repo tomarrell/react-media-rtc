@@ -1,3 +1,4 @@
+// TODO: Add support for multiple browsers
 const mediaDevices = navigator.mediaDevices;
 
 /**
